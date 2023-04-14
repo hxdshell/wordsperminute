@@ -1,0 +1,160 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    background-color: rgb(48, 48, 48);
+    color: white;
+}
+.paragraph{
+    font-size: 28px;
+}
+h1{
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid;
+}
+.linkicon{
+    border: none;
+}
+a:hover{
+    color: inherit;
+    opacity: .5;
+}
+.timer{
+    font-size: xx-large;
+    color: gray;
+}
+input[type="text"],input[type="password"],input[type="email"]{
+    background-color: rgb(48, 48, 48) !important; 
+    margin: 1rem 0;
+    color: white !important;
+    font-size: large;
+}
+.paragraph{
+    max-height: 175px;
+    overflow: hidden;
+}
+.infobox{
+    padding: 2rem;
+    border-radius: 20px;
+    /* box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.3);
+    -moz-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.3); */
+    border: 2px solid grey;
+}
+.giant{
+    font-size: 64px;
+}
+.accuracy{
+    font-weight: bold;
+    font-size: large;
+}
+.lighttext{
+    color: rgb(150, 150, 150); 
+}
+.maincontainer{
+    display: flex;
+    align-items: center;
+}
+.mynav{
+    background-color: rgb(41, 41, 41);
+    padding: 1rem;
+    margin-right: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 25%;
+}
+.mynav > p{
+    font-size: 20px;
+    cursor: pointer;
+}
+abbr[title]{
+    text-decoration: none !important;
+    cursor: inherit;
+}
+.mainstuff{
+    padding: 1rem;
+    margin-left: 5rem;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 2rem;
+}
+.login{
+    width: fit-content;
+    max-width: 272px;
+}
+.result{
+    display: flex;
+    width: inherit;
+    height: 345px;
+    justify-content: space-evenly;
+}
+.incwords{
+    height: inherit;
+    padding: 1rem 2rem;
+    overflow: auto;
+}
+.tests_completed{
+    font-size: large;
+}
+.scorecontent{
+    padding: .5rem;
+    font-size: large;
+}
+.borderleft{
+    border-left: 2px solid rgb(80, 80, 80);
+}
+.table{
+    font-size: large;
+    color: white;
+    background-color: rgb(41, 41, 41);
+    width: max-content;
+}
+th{
+    background-color: rgb(35, 35, 35) !important;
+    position: sticky;
+    top: 0;
+}
+th,td{
+    padding: .8rem 5rem !important;
+}
+.history{
+    margin-top: 2rem;
+    width: 80%;
+}
+.historytable{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.leaderboard{
+    width: 82%;
+}
+.leaderboardtable{
+    height: 500px;
+    overflow-y: auto;
+}
+.currentuserrow{
+    position: sticky;
+    bottom: 0;
+    background-color: rgb(100, 100, 100);
+}
+.about{
+    width: 100%;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
