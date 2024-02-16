@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\DB;
 use App\Http\Controllers\Paragraph;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -41,6 +42,7 @@ Route::get('/result',[Paragraph::class,'showresult']);
 Route::post('/calcresult',[Paragraph::class,'calcresult']);
 
 Route::get('/about',[Paragraph::class,'about']);
+
 
 
 

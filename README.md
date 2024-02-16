@@ -1,5 +1,7 @@
 <h1 align="center"><b>WORDSPERMINUTE</b><h1>
 
+<img src="public/storage/demo.png">
+
 ### Table of contents
 - [About](#about)
 - [How it works](#how-it-works)
@@ -116,7 +118,6 @@ you can also find ```wordsperminute.sql``` file in the root directory to import 
 
 ## Author
 
-***Harshal Dave***
+***Harshal***
 
-- [Linkedin](https://www.linkedin.com/in/harshal-dave-63b7a5236/)
-- [Twitter](https://twitter.com/heyharshal_)
+- [Twitter](https://twitter.com/hxdshell)

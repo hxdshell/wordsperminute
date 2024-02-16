@@ -10,11 +10,10 @@
             <p>Bug reports are highly appreciated! If you find any bug or have any suggestions,you can contact us (details are given below).</p>
             <p><i>Type like the wind!</i></p><hr>
             <footer class="footer lighttext">
-                <p>created by <i>Harshal Dave</i></p>
+                <p>created by <i>Harshal (hxdshell)</i></p>
                 <div>
-                    <a href="https://twitter.com/heyharshal_" target="_blank" class="linkicon"><i class="bi bi-twitter"></i></a>
-                    <a href="https://github.com/heyharshal" target="_blank" class="linkicon"><i class="bi bi-github"></i></a>
-                    <a href="https://www.linkedin.com/in/harshal-dave-63b7a5236/" target="_blank" class="linkicon"><i class="bi bi-linkedin"></i></a
+                    <a href="https://twitter.com/hxdshell" target="_blank" class="linkicon"><i class="bi bi-twitter"></i></a>
+                    <a href="https://github.com/hxdshell" target="_blank" class="linkicon"><i class="bi bi-github"></i></a>
                 </div>
             </footer>
         </div>
