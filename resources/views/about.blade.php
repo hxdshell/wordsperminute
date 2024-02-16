@@ -14,6 +14,7 @@
                 <div>
                     <a href="https://twitter.com/hxdshell" target="_blank" class="linkicon"><i class="bi bi-twitter"></i></a>
                     <a href="https://github.com/hxdshell" target="_blank" class="linkicon"><i class="bi bi-github"></i></a>
+                    
                 </div>
             </footer>
         </div>
